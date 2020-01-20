@@ -1,6 +1,6 @@
 # Forestfire Impact Prediction
 
-<center><img src="https://magazine.columbia.edu/sites/default/files/styles/wysiwyg_full_width_image/public/2018-09/Wild-fires.jpg?itok=pBKjTId4" width=600px/></center>
+<img src="https://magazine.columbia.edu/sites/default/files/styles/wysiwyg_full_width_image/public/2018-09/Wild-fires.jpg?itok=pBKjTId4" width=600px/>
 
 Source: https://archive.ics.uci.edu/ml/datasets/forest+fires
 
